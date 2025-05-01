@@ -1,0 +1,7 @@
+facenet_pytorch==2.5.2
+boto3==1.28.57
+Pillow==9.5.0
+numpy==1.24.3
+requests==2.31.0
+opencv-python-headless==4.8.0.76
+awslambdaric==2.0.7
